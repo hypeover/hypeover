@@ -1,4 +1,4 @@
-Hi👋 I'm Krystian, that's my simple projects:
+Hi👋 I'm Krystian, these are my simple projects:
 
 
 Here's my [Codepen profile](https://codepen.io/hypeover)
